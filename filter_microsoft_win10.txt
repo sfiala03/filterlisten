@@ -1,0 +1,11 @@
+# Ad filter list by stephan
+# License: GPLv3
+# Contact: stephan
+
+
+
+
+win10.ipv6.microsoft.com
+login.live.com
+ctldl.windowsupdate.com
+settings-win.data.microsoft.com
