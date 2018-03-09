@@ -1,0 +1,10 @@
+# Ad filter list by stephan
+# License: GPLv3
+# Contact: stephan
+
+
+
+support.mozilla.org
+self-repair.mozilla.org
+
+
