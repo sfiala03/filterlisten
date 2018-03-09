@@ -10,5 +10,5 @@ login.live.com
 ctldl.windowsupdate.com
 settings-win.data.microsoft.com
 dns.msftncsi.com
-.microsoft.com
-.microsoft.net
+microsoft.com
+microsoft.net
