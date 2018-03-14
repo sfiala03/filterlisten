@@ -12,5 +12,10 @@ settings-win.data.microsoft.com
 dns.msftncsi.com
 microsoft.com
 microsoft.net
+wpad.fritz.box
+www.msftconnecttest.com
+tile-service.weather.microsoft.com
+ipv6.msftncsi.com
+fs.microsoft.com
 www.microsoft.com
 go.microsoft.com

@@ -6,5 +6,15 @@
 
 support.mozilla.org
 self-repair.mozilla.org
+tiles-cloudfront.cdn.mozilla.net
+mozilla.com
+mozilla.net
+firefox.settings.services.mozilla.com
+detectportal.firefox.com
+location.services.mozilla.com
+locprod1-elb-eu-west-1.prod.mozaws.net
+sumo.external.zlb.scl3.mozilla.com
+tiles.r53-2.services.mozilla.com
+tiles.services.mozilla.com
 
 

@@ -1,0 +1,20 @@
+# Ad filter list by stephan
+# License: GPLv3
+# Contact: stephan
+# Diese Liste enhält alle google relevante Aufrufe von Android
+
+
+play.google.com
+mtalk.google.com
+play.googleapis.com
+playatoms-pa.googleapis.com
+plus.google.com
+safebrowsing.googleapis.com
+clients3.google.com
+android.clients.google.com
+
+
+
+
+
+
