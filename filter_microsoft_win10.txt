@@ -19,3 +19,7 @@ ipv6.msftncsi.com
 fs.microsoft.com
 www.microsoft.com
 go.microsoft.com
+emdl.ws.microsoft.com
+cp601-prod.do.dsp.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+geover-prod.do.dsp.mp.microsoft.com
