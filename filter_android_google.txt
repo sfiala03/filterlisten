@@ -23,6 +23,46 @@ alt8-mtalk.google.com
 fonts.googleapis.com
 .google.com
 android.googleapis.com
+www.google-analytics.com
+www.googletagmanager.com
+www.googleapis.com
+clients1.google.com
+apis.google.com
+accounts.google.com
+android.clients.google.com
+cryptauthenrollment.googleapis.com
+playatoms-pa.googleapis.com
+googleadapis.l.google.com
+android-safebrowsing.google.com
+instantmessaging-pa.googleapis.com
+fonts.googleapis.com
+safebrowsing.google.com
+safebrowsing-cache.google.com
+lh6.googleusercontent.com
+lh5.googleusercontent.com
+adservice.google.de
+googlevideo.com
+r1---sn-4g5ednle.googlevideo.com
+r1.sn-4g5ednle.googlevideo.com
+r3---sn-4g5e6nze.googlevideo.com
+r3.sn-4g5e6nze.googlevideo.com
+googleapis.l.google.com
+pki-goog.l.google.com
+ajax.googleapis.com
+people-pa.googleapis.com
+android.googleapis.com
+youtube-ui.l.google.com
+ytimg.l.google.com
+
+
+
+
+
+
+
+
+
+
 
 
 
