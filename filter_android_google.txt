@@ -22,6 +22,7 @@ alt7-mtalk.google.com
 alt8-mtalk.google.com
 fonts.googleapis.com
 .google.com
+android.googleapis.com
 
 
 
