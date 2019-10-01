@@ -16,5 +16,6 @@ locprod1-elb-eu-west-1.prod.mozaws.net
 sumo.external.zlb.scl3.mozilla.com
 tiles.r53-2.services.mozilla.com
 tiles.services.mozilla.com
+shavar.services.mozilla.com
 
 
