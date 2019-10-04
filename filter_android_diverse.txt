@@ -1,7 +1,7 @@
 # Ad filter list by stephan
 # License: GPLv3
 # Contact: stephan
-# Diese Liste enh‰lt diverse Apps in Android
+# Diese Liste enh√§lt diverse Apps in Android
 
 
 aldiko-stats.feedbooks.net
@@ -9,7 +9,7 @@ api.elysium.opera.com
 autoupdate.geo.opera.com
 db.calimoto.eu
 updatesec.sonymobile.com
-
+cloudflare.com
 
 
 
