@@ -9,7 +9,6 @@ api.elysium.opera.com
 autoupdate.geo.opera.com
 db.calimoto.eu
 updatesec.sonymobile.com
-cloudflare.com
 
 
 
