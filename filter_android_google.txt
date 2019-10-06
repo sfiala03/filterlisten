@@ -39,7 +39,6 @@ fonts.googleapis.com
 safebrowsing.google.com
 safebrowsing-cache.google.com
 lh6.googleusercontent.com
-cloudflare.com
 lh5.googleusercontent.com
 adservice.google.de
 googlevideo.com
