@@ -23,3 +23,10 @@ emdl.ws.microsoft.com
 cp601-prod.do.dsp.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
+crl.microsoft.com
+iecvlist.microsoft.com
+sls.update.microsoft.com
+markets.books.microsoft.com
+ieonline.microsoft.com
+c.s-microsoft.com
+*microsoft.com
