@@ -1,13 +1,3 @@
-#TTL 30
-# SOA rpz.urlhaus.abuse.ch. hostmaster.urlhaus.abuse.ch. 2012251523 300 1800 604800 30
-# NS localhost.
-#
-# abuse.ch URLhaus Response Policy Zones (RPZ)
-# Last updated: 2020-12-25 15:23:07 (UTC)
-#
-# Terms Of Use: https://urlhaus.abuse.ch/api/
-# For questions please contact urlhaus [at] abuse.ch
-#
 testentry.rpz.urlhaus.abuse.ch CNAME . ; Test entry for testing URLhaus RPZ
 123sellfast.com CNAME . ; Malware download (2020-12-23), see https://urlhaus.abuse.ch/host/123sellfast.com/
 14936-1011.s2.webspace.re CNAME . ; Malware download (2020-11-30), see https://urlhaus.abuse.ch/host/14936-1011.s2.webspace.re/
