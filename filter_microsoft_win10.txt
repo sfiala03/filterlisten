@@ -29,7 +29,7 @@ sls.update.microsoft.com
 markets.books.microsoft.com
 ieonline.microsoft.com
 c.s-microsoft.com
-*microsoft.com
+microsoft.com
 crl.microsoft.com
 sls.update.microsoft.com
 iecvlist.microsoft.com
