@@ -89,7 +89,7 @@ www.msftconnecttest.com
 onecs-live.azureedge.net
 compass-ssl.xboxlive.com
 (\.|^)live\.com$
-
+www.download.windowsupdate.com
 
 
 
