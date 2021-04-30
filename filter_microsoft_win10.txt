@@ -90,10 +90,14 @@ onecs-live.azureedge.net
 compass-ssl.xboxlive.com
 (\.|^)live\.com$
 www.download.windowsupdate.com
-
-
-
-
+watson.microsoft.com
+www.update.microsoft.com
+download.microsoft.com
+cxcs.microsoft.net
+msedge
+msn
+windows
+mircosoft
 
 
 
