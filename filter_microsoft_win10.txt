@@ -99,5 +99,18 @@ msn
 windows
 mircosoft
 cdn.onenote.net
+geo.settings-win.data.microsoft.com.akadns.net
+db5-eap.settings-win.data.microsoft.com.akadns.net
+settings-win.data.microsoft.com
+db5.settings-win.data.microsoft.com.akadns.net
+asimov-win.settings.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.neteu.vortex-win.data.microsoft.com
+v10-win.vortex.data.microsft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsoft.com
+us.vortex-win.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
+alpha.telemetry.microsoft.com
+oca.telemetry.microsoft.com
 
 
